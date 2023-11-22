@@ -13,7 +13,7 @@ public class Student {
     public static void main(String[] args) {
         Student[] students = new Student[2]; // Change the size to accommodate two students
         students[0] = new Student("Simon", "Azike", 23);
-        students[1] = new Student("Titma", "Omatha", 22);
+        students[1] = new Student("Tina", "Omatha", 22);
 
         // Print information about the first student
         System.out.println("First Student: " + students[1].firstname + " " + students[0].lastname + ", Age: " + students[0].age);
