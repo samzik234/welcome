@@ -1,3 +1,1 @@
-# welcome
-JUST MORE TEXT TO CHECK WHAT I AM DOING .
-<h>This an addition<h>
+Hello! My name is Azike Simon, and I am a dedicated and passionate software engineering student. I have gained invaluable experience in programming languages such as Java, Python, HTML, and CSS. I am also an excellent team player and understand the importance of collaboration in software development. I value communication in the area of public speaking and believe that open and honest communication is crucial to the success of any project.
