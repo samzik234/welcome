@@ -1,0 +1,24 @@
+
+.project1{
+    /* background-color:rgb(226, 21, 21); */
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* projectpage.css */
+
+/* Style the heading */
+.project1 h1 {
+    color: blue; /* Change the text color to blue */
+    font-family: Arial, sans-serif; /* Change the font family */
+}
+
+/* Style the body background */
+body {
+    background-color: #280d0d; /* Set a light gray background color */
+}
+
+/* Center the heading */
+.project1 {
+    text-align: center; /* Center align the text */
+}

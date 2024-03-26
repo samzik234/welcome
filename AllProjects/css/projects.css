@@ -1,0 +1,245 @@
+/* Reset default margin and padding */
+body{
+    margin:0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    background-position: center; 
+}
+  
+  
+  /* Set body font and background color */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #200c0c;
+    padding: 20px; /* Add some padding for better readability */
+  }
+  
+  /* Style headings */
+  h1 {
+    color: #f9f0f0;
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align:center;
+  }
+  
+  h2{
+    color:#e0e7ee;
+    font-size:20px;
+    margin-top:20px;
+    margin-bottom:10px;
+    text-align:center; /* Corrected the spacing after the colon */
+  }
+
+  h3 {
+    color: #f5eded;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 140;
+    text-align: center;
+  }
+  
+  /* Style links */
+  a {
+    color: #85878aa7;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: #b72727;
+  }
+  
+  /* Style lists */
+  ul {
+    list-style-type: none;
+  }
+  
+  /* Style list items */
+  li {
+    margin-bottom: 5px;
+  }
+  
+  /* Add some spacing between list items */
+  ul > li:not(:last-child) {
+    margin-bottom: 10px;
+  }
+  h1{
+    color: #d2b9b9;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align:center;
+  }
+   .h1{
+    align-items:center;
+    color: #b72727;
+    justify-content: center;
+    display: flex;
+    min-height:1vh;
+    margin-right: 140340;
+    /* text-align:center; */
+  
+   }
+  
+.divone{
+    max-width: 500px;
+    margin: 0 auto;
+    margin-left: 240px;
+    padding: 20px;
+    background-color: #b6a9a9;
+    border-radius: 8px;
+    box-shadow: 2px 4px rgba(333, 314, 319, 0.1);
+  }
+
+  /* Styles for h1 */
+  .divtwo{
+    max-width: 500px;
+    margin: 0 auto;
+    margin-left: 240px;
+    padding: 20px;
+    background-color: #b6a9a9;
+    border-radius: 8px;
+    box-shadow: 2px 4px rgba(333, 314, 319, 0.1);
+  }
+      
+  .divthree{
+      max-width:500px;
+      margin: 0 auto;
+      margin-left: 240px;
+      padding: 20px;
+      background-color: #b6a9a9;
+      border-radius: 8px;
+      box-shadow: 2px 4px rgba(333, 314, 319, 0.1);
+  }
+  .divfour{
+        max-width:500px;
+        margin: 0 auto;
+        margin-left: 240px;
+        padding: 20px;
+        background-color: #b6a9a9;
+        border-radius: 8px;
+        box-shadow: 2px 4px rgba(333, 314, 319, 0.1);
+        }
+          
+      .divfive{
+          max-width:500px;
+          margin: 0 auto;
+          margin-left: 240px;
+          padding: 20px;
+          background-color: #b6a9a9;
+          border-radius: 8px;
+       }  
+          .h1 {
+    /* Your styles for h1 */
+    color: #eed9d9;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+  }
+  
+  .divsix{
+    max-width:500px;
+    margin: 0 auto;
+    margin-left: 240px;
+    padding: 20px;
+    background-color: #b6a9a9;
+    border-radius: 8px;
+    box-shadow: 2px 4px rgba(333, 314, 319, 0.1);
+  }
+  /* Styles for h3 */
+  .h3 {
+    /* Your styles for h3 */
+    color: #f8f1f1;
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align:center;
+  }
+  
+  /* Styles for ul */
+  ul {
+    /* Your styles for ul */
+    margin-bottom: 20px;
+  }
+  
+  /* Styles for li */
+  li {
+    /* Your styles for li */
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for a */
+  a {
+    /* Your styles for a */
+    color: #e0e7ee;
+    text-decoration: none;
+  }
+  
+  /* Hover styles for a */
+  a:hover {
+    /* Your hover styles for a */
+    text-decoration-thickness:inherit;
+  }
+  
+  .footer1{
+    background-color: gray ;
+
+  }
+
+  body{ 
+    background-color: #8b8383;
+}
+header {
+    font-size: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    padding: 20px;
+    background-color: #901616;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #e6cfcf;
+}
+
+.right-links {
+    display: flex;
+    align-items: center;
+}
+
+.right-links a {
+    margin-left: 12px;
+    text-decoration: none;
+    color: #ebe5e5;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+    border-radius: 50%;
+    margin: 20px;
+    margin-left:left 434px;
+   background-image: url(./images/simon.jpg);
+
+}

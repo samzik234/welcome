@@ -1,0 +1,48 @@
+body{ 
+    background-color: #827d7d;
+}
+header {
+    font-size: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #aa2a2a;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #e6cfcf;
+}
+
+.right-links {
+    display: flex;
+    align-items: center;
+}
+
+.right-links a {
+    margin-left: 12px;
+    text-decoration: none;
+    color: #ebe5e5;
+}
+
+/* .circle {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+    border-radius: 50%;
+    margin: 20px;
+    margin-left:left 434px;
+   background-image: url(./images/simon.jpg);
+
+} */
